@@ -63,6 +63,7 @@ I recently came across with this code while doing code-review of a product. What
 
 As Thom Holwerda have said:
 
+![](/assets/images/1520215242873.jfif){: .center-image }
 
 These are my top 5 What-The-Code moments. Let me know if you have come across with similar or even funnier WTFs in your career.
 
