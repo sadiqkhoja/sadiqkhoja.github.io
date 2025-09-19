@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Put WSL on a leash
+title: My Favorite Proverbs
 ---
 
 - Turkey's not gonna vote for an early Christmas
