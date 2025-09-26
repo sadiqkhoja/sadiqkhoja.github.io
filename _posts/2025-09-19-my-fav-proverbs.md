@@ -4,3 +4,4 @@ title: My Favorite Proverbs
 ---
 
 - Turkey's not gonna vote for an early Christmas
+- Two bald men fighting over a comb
